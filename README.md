@@ -5,7 +5,7 @@ Organo is an application designed to manage people and teams from the same organ
 
 ## Access
 
-https://quitandir.github.io/Organo/
+https://organo-liard-three.vercel.app/
 
 ## About the project
 
