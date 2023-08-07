@@ -5,6 +5,7 @@ import ListaSuspensa from '../ListaSuspensa'
 import './Formulario.css'
 import IColaborador from '../../shared/interfaces/IColaborador'
 
+
 interface FormularioProps {
     aoColaboradorCadastrado: (colaborador: IColaborador) => void
     times: string[]

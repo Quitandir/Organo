@@ -1,4 +1,4 @@
-import { IColaborador } from '../../shared/interfaces/IColaborador'
+import IColaborador from '../../shared/interfaces/IColaborador'
 import Colaborador from '../Colaborador'
 import './Time.css'
 
